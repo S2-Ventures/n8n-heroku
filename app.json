@@ -49,7 +49,7 @@
     },
     "addons": [
       {
-        "plan": "heroku-postgresql",
+        "plan": "heroku-postgresql:hobby-basic",
         "options": {
           "version": "11"
         }
